@@ -1,6 +1,8 @@
-GROUP NAME  : Group 14
+# HI!CKATHON 2023
 
-HI!CKATHON 2023
+<img src="images/logo-hi-paris-retina.png" alt="Hi! Paris logo" width="500"/>
+
+GROUP NAME  : Group 14
 
 Date : January 14th, 2023
 
