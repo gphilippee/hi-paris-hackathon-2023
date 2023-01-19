@@ -1,0 +1,9 @@
+scikit-learn==1.2.0
+pandas
+numpy
+seaborn
+shap
+xgboost
+optuna
+
+black[jupyter]
